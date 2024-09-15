@@ -1,0 +1,6 @@
+# Dapat menambahkan file agar di-ignore oleh git
+config.txt
+# Dapat menambahkan folder agar di-ignore oleh git
+data/
+# Dapat menambahkan extension file agar semua file dengan extension tersebut di-ignore oleh git
+*.exe
